@@ -1,0 +1,14 @@
+{
+	"name": "bfcache-playground",
+	"version": "1.0.0",
+	"main": "script.js",
+	"scripts": {
+		"dev": "http-server"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"http-server": "^14.1.1"
+	}
+}
